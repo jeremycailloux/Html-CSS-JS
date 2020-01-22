@@ -1,0 +1,61 @@
+.container{ border: solid 1px black;
+display: flex;
+justify-content: space-between;
+align-content: space-around;
+height: 800px;
+flex-wrap: wrap;
+padding: 10px;
+}
+  
+  .element1{
+    height: 31%;
+    width: 23%;
+    background-color: rgb(163, 222, 135);
+  }
+  .element2{
+
+    height: 31%;
+    width: 23%;
+    background-color: cadetblue;
+  }
+  .element3{
+    
+    height: 31%;
+    width: 23%;
+    background-color: rgb(189, 237, 100);
+  }
+  .element4{
+    
+    height: 31%;
+    width: 23%;
+    background-color: rgb(140, 211, 9);
+  }
+
+  .element5{
+    
+    height: 31%;
+    width: 100%;
+    background-color: rgb(19, 111, 231);
+  }
+
+  
+  .element6{
+    height: 31%;
+    width: 23%;
+    background-color: rgb(237, 100, 141);
+  }
+  .element7{
+    height: 31%;
+    width: 23%;
+    background-color: rgb(237, 178, 100);
+  }
+  .element8{
+    height: 31%;
+    width: 23%;
+    background-color: rgb(230, 10, 10);
+  }
+  .element9{
+    height: 31%;
+    width: 23%;
+    background-color: rgb(231, 139, 19);
+  }

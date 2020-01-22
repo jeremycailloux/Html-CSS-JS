@@ -1,0 +1,38 @@
+
+.verte {
+    background-color: #74D655;
+    border: 3px solid black;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.bleue {
+    background-color: #558AD6;
+    border: 3px solid black;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.rouge {
+ 
+    background-color: #D67E55;
+    border: 3px solid black;
+    height: 100px;
+    clear: left;}
+
+.vertclaire {
+ 
+    background-color:#ACE999;
+    border: 3px solid black;   
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+
+.gris {
+    background-color: #929690;
+    border: 3px solid black;   
+    width: 50px;
+    height: 50px;
+    float: right;
+}

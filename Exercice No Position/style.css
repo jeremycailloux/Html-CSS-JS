@@ -1,0 +1,13 @@
+.verte {background-color: #74D655;
+    border: 3px solid black;
+    height: 100%;
+    padding: 25px;
+}
+.bleue {background-color: #558AD6;
+    border: 3px solid black;
+    padding: 25px;
+}
+.rouge {background-color: #D67E55;
+    border: 3px solid black;
+    padding: 25px;
+}

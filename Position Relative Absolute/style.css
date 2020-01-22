@@ -1,0 +1,40 @@
+.bleueclaire {
+    position: relative; 
+    border: 3px solid black;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background-color: #A3EEEF;
+}
+.verte {
+    position: absolute;
+    left: 220px;
+    bottom: 220px;
+    background-color: #74D655;
+    border: 3px solid black;
+    padding: 50px;
+}
+.bleue {
+    position: absolute;
+    right: 220px;
+    bottom: 220px;
+    background-color: #558AD6;
+    border: 3px solid black;
+    padding: 50px;
+}
+.rouge {
+    position: absolute;
+    left: 220px;
+    top: 220px;
+    background-color: #D67E55;
+    border: 3px solid black;
+    padding: 50px;}
+
+.vertclaire {
+    position: absolute;
+    right: 220px;
+    top: 220px;
+    background-color:#ACE999;
+    border: 3px solid black;
+    padding: 50px;}
+}

@@ -1,0 +1,22 @@
+.verte {
+    position: relative;
+    right: 10%;
+    background-color: #74D655;
+    border: 3px solid black;
+    height: 100%;
+    padding: 25px;
+    margin-left: 10%;
+}
+.bleue {
+    background-color: #558AD6;
+    border: 3px solid black;
+    padding: 25px;
+}
+.rouge {
+    position: absolute;
+    top: 110%;
+    right: 70%;
+    background-color: #D67E55;
+    border: 3px solid black;
+    padding: 25px;
+}

@@ -1,0 +1,52 @@
+.container {
+    border: solid 1px black;
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    justify-content: center;
+    /*align-items: stretch;*/
+
+  }
+  .container div {
+      flex: 1;
+  }
+  .element1{
+    padding: 20px;
+    height: 800px;
+    background-color: rgb(163, 222, 135);
+  }
+  .element2{
+    padding: 20px;
+    height: 800px;
+    background-color: cadetblue;
+  }
+  .element3{
+    padding: 20px;
+    height: 800px;
+    background-color: rgb(189, 237, 100);
+  }
+  .element4{
+    padding: 20px;
+    height: 800px;
+    background-color: rgb(140, 211, 9);
+  }
+  .element5{
+    padding: 20px;
+    height: 800px;
+    background-color: rgb(237, 100, 141);
+  }
+  .element6{
+    padding: 20px;
+    height: 800px;
+    background-color: rgb(237, 178, 100);
+  }
+  .element7{
+    padding: 20px;
+    height: 800px;
+    background-color: rgb(230, 10, 10);
+  }
+  .element8{
+    padding: 20px;
+    height: 800px;
+    background-color: rgb(231, 139, 19);
+  }

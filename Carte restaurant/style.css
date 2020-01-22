@@ -1,0 +1,19 @@
+body {background-color: #91969B;} 
+
+.content {border: 3px dashed greenyellow;
+          padding: 25px;
+          width: 80%;
+          margin: auto;}
+
+h1 {color: rgb(12, 223, 75);
+    font-size: 25px;
+    font-style: italic;
+    border: 3px ridge rgb(12, 223, 75);
+    padding: 25px;
+    text-align: center}
+
+p .lien {color: rgb(12, 223, 75);
+         font-size: 16px}
+
+ul {background-color: #9B9691;}
+

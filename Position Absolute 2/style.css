@@ -1,0 +1,29 @@
+.bleueclaire {
+    position: relative; 
+    height: 50px;
+    border: 3px solid black;
+    background-color: #A3EEEF;
+}
+.verte {
+    position: absolute;
+    top: 500%;
+    background-color: #74D655;
+    border: 3px solid black;
+    height: 100%;
+    padding: 25px;
+    left: 40%;
+}
+.bleue {
+    position: relative;
+    background-color: #558AD6;
+    border: 3px solid black;
+    padding: 25px;
+}
+.rouge {
+    position: absolute;
+    top: 200%;
+    left: 200%;
+    background-color: #D67E55;
+    border: 3px solid black;
+    padding: 25px;
+}

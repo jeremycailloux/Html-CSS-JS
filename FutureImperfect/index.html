@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title> Titre </title>
+
+
+    <style>
+        body {
+            margin: 0px;
+            background-color: #eee;
+        }
+
+        .navbar {
+            display: flex;
+            text-transform: uppercase;
+            background-color: white;
+        }
+
+        .navbar .item {
+            padding: 15px 25px;
+            border: 1px solid #eee;
+            border-top: none
+        }
+
+        .navbar .item.logo {
+            font-weight: bold;
+        }
+
+        .navbar .nav-items {
+            flex: 1;
+            display: flex;
+        }
+
+        .navbar .nav-items a {
+            padding: 0px 20px;
+            border-right: 1px solid #eee;
+        }
+
+        .navbar .nav-items a:last-child {
+            border-right: none;
+        }
+
+        .container {
+            display: flex;
+            width: 90%;
+            margin: auto;
+            margin-top: 40px;
+            justify-content: space-between;
+        }
+
+        .left-content,
+        .right-content {
+            
+            padding: 15px;
+        }
+
+        .left-content {
+            width: 20%;
+        }
+
+        .right-content {
+            width: 75%
+        }
+
+        .card .header {
+            height: 20%;
+            border-bottom: 1px solid #ddd;
+            display: flex;
+        }
+
+        .card {
+            height: 400px;
+            background: white;
+            margin-bottom: 40px;
+        }
+
+
+        .card .header .title {
+            height: 100%;
+            width: 80%;
+            border-right: 1px solid #ddd;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="navbar">
+        <div class="item logo">Future imperfect</div>
+
+        <div class="item nav-items">
+            <a>lorem</a>
+            <a>ipsum</a>
+            <a>feugiat</a>
+            <a>tempus</a>
+        </div>
+
+        <div class="item">Search</div>
+        <div class="item">menu</div>
+    </div>
+
+    <div class="container">
+        <div class="left-content">
+
+
+        </div>
+        <div class="right-content">
+
+
+            <div class="card">
+                <div class="header">
+                    <div class="title"></div>
+                    <div class="info"></div>
+                </div>
+                <div class="body">
+
+                </div>
+            </div>
+
+
+
+            <div class="card">
+                <div class="header">
+                    <div class="title"></div>
+                    <div class="info"></div>
+                </div>
+                <div class="body">
+
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+</body>
+
+</html>
